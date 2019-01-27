@@ -1,0 +1,14 @@
+body{
+    background-color: olive;
+}
+
+#content {
+    color:white;
+}
+
+p {
+    font-family: "Verdana", Times, serif;
+}
+
+#backArrow{
+    height: 100px;
